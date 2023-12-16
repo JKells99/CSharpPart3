@@ -63,6 +63,34 @@
 
 // Console.WriteLine(headsTails);
 
+string permission = "Admin|Manager";
+int level = 500;
+
+
+if(permission.Contains("Admin"))
+{
+    if(level > 55)
+    {
+        Console.WriteLine("Welcome, Super Admin User:");
+    } else if (level <= 55)
+    {
+        Console.WriteLine("Welcome, Admin User.");
+    }
+} else if (permission.Contains("Manager"))
+{
+    if(level > 20)
+    {
+        Console.WriteLine("Contact Admin For Access");
+    } else if (level < 20)
+    {
+        Console.WriteLine("You Do Not Have Sufficient Privligies! Contact Admin For Help");
+    }
+} else{
+    Console.WriteLine("You Do Not Have Privliges");
+}
+
+
+
 
 
 

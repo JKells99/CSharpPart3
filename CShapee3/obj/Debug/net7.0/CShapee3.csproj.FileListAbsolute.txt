@@ -1,0 +1,14 @@
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\bin\Debug\net7.0\CShapee3.exe
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\bin\Debug\net7.0\CShapee3.deps.json
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\bin\Debug\net7.0\CShapee3.runtimeconfig.json
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\bin\Debug\net7.0\CShapee3.dll
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\bin\Debug\net7.0\CShapee3.pdb
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.dll
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\refint\CShapee3.dll
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.pdb
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\CShapee3.genruntimeconfig.cache
+C:\Users\Jordan\Desktop\CSharpPart3\CShapee3\obj\Debug\net7.0\ref\CShapee3.dll

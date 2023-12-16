@@ -63,31 +63,110 @@
 
 // Console.WriteLine(headsTails);
 
-string permission = "Admin|Manager";
-int level = 500;
+// string permission = "Admin|Manager";
+// int level = 500;
 
 
-if(permission.Contains("Admin"))
-{
-    if(level > 55)
-    {
-        Console.WriteLine("Welcome, Super Admin User:");
-    } else if (level <= 55)
-    {
-        Console.WriteLine("Welcome, Admin User.");
-    }
-} else if (permission.Contains("Manager"))
-{
-    if(level > 20)
-    {
-        Console.WriteLine("Contact Admin For Access");
-    } else if (level < 20)
-    {
-        Console.WriteLine("You Do Not Have Sufficient Privligies! Contact Admin For Help");
-    }
-} else{
-    Console.WriteLine("You Do Not Have Privliges");
-}
+// if(permission.Contains("Admin"))
+// {
+//     if(level > 55)
+//     {
+//         Console.WriteLine("Welcome, Super Admin User:");
+//     } else if (level <= 55)
+//     {
+//         Console.WriteLine("Welcome, Admin User.");
+//     }
+// } else if (permission.Contains("Manager"))
+// {
+//     if(level > 20)
+//     {
+//         Console.WriteLine("Contact Admin For Access");
+//     } else if (level < 20)
+//     {
+//         Console.WriteLine("You Do Not Have Sufficient Privligies! Contact Admin For Help");
+//     }
+// } else{
+//     Console.WriteLine("You Do Not Have Privliges");
+// }
+
+
+// Exercise - Code blocks and variable scope
+
+
+// bool flag = true;
+// int value = 0;
+// if(flag){
+//     value = 10;
+//     Console.WriteLine($"Inside of code block value: {value}");
+// }
+// Console.WriteLine($"Outside Of Code Block: {value}");
+
+
+// int number1 = 5;
+
+// if(number1 > 0)
+// {
+//     int number2 = 6;
+//     number1 = number1 + number2;
+// }
+
+// Console.WriteLine(number1);
+
+
+// Exercise - Remove code blocks from if statements
+
+
+// bool flag = true;
+// if (flag) Console.WriteLine(flag);
+
+// string name = "steve";
+
+// if(name == "bob") 
+
+//     Console.WriteLine("Found Bob!");
+
+// else if(name == "steve") 
+
+//     Console.WriteLine("Found Steve");
+// else 
+//     Console.WriteLine("Found Chuck!");
+
+
+
+// ****** CHALLANGE ***********
+
+// int[] numbers = {4,8,15,16,23,42};
+
+// int total = 0;
+
+// bool found = false;
+
+// foreach (int number in numbers)
+// {
+
+//     total += number;
+
+//     if(number == 42)
+//     {
+//         found = true;
+
+//     }
+
+    
+// }
+
+
+// if(found)
+// {
+//     Console.WriteLine("42 Is In The Set");
+// }
+
+// Console.WriteLine($"Total: {total}");
+
+
+
+
+
 
 
 
